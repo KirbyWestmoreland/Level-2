@@ -1,3 +1,4 @@
+// Kirby
 #include <iostream>
 #include <random>
 #include <vector>
@@ -44,7 +45,7 @@ void splashScreen()
 	std::cout << "Mine Sweeper!" << std::endl;
 	std::cout << std::endl;
 	std::cout << "Your name here (2019)" << std::endl;
-	std::cout << "CPSC 2377, Game Programming, Quest 0" << std::endl;
+	std::cout << "CPSC 2377, Game Programming" << std::endl;
 	std::cout << "UALR, Computer Science Dept." << std::endl;
 	std::cout << std::endl;
 	std::cout << "INSTRUCTIONS:" << std::endl;
